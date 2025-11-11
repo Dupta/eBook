@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "672f83a1b01d1a001fa00101",
+    "title": "The Alchemist",
+    "description": "Paulo Coelho’s timeless masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who dreams of finding a hidden treasure buried near the Pyramids of Egypt. Along the way, Santiago learns powerful lessons about listening to his heart, recognizing opportunity, and following his own path. The Alchemist is more than a novel—it’s a profound exploration of destiny, purpose, and spiritual awakening that continues to inspire millions around the world.",
+    "coverImage": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383",
+    "file": "/books/the-alchemist.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a001",
+      "name": "Paulo Coelho"
+    },
+    "genre": "Fiction",
+    "createdAt": "2025-11-10T10:00:00.000Z",
+    "updatedAt": "2025-11-10T10:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "672f83a1b01d1a001fa00102",
+    "title": "Atomic Habits",
+    "description": "In this groundbreaking guide, James Clear unveils the science of how small habits compound into remarkable results. Drawing from psychology, neuroscience, and real-world examples, Atomic Habits shows how you can make time for new habits, overcome lack of motivation, and design an environment that naturally encourages success. With practical strategies and powerful insights, it’s a must-read for anyone striving for continuous improvement in work, health, or life.",
+    "coverImage": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+    "file": "/books/atomic-habits.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a002",
+      "name": "James Clear"
+    },
+    "genre": "Self-help",
+    "createdAt": "2025-11-10T10:05:00.000Z",
+    "updatedAt": "2025-11-10T10:05:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "672f83a1b01d1a001fa00103",
+    "title": "Deep Work",
+    "description": "Cal Newport presents a compelling argument for cultivating deep work—the ability to focus without distraction on cognitively demanding tasks. In a world filled with constant notifications and shallow interactions, this book provides a roadmap for mastering focus, boosting creativity, and producing high-quality work in less time. Newport blends inspiring case studies, actionable advice, and scientific research to show how deep work is the superpower of the 21st century.",
+    "coverImage": "https://images.unsplash.com/photo-1507842217343-583bb7270b66",
+    "file": "/books/deep-work.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a003",
+      "name": "Cal Newport"
+    },
+    "genre": "Productivity",
+    "createdAt": "2025-11-10T10:10:00.000Z",
+    "updatedAt": "2025-11-10T10:10:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "672f83a1b01d1a001fa00104",
+    "title": "Ikigai: The Japanese Secret to a Long and Happy Life",
+    "description": "In 'Ikigai', authors Héctor García and Francesc Miralles explore the ancient Japanese philosophy that teaches how finding one’s purpose—or 'reason for being'—is the key to living a long, fulfilling, and joyful life. Through insights from the residents of Okinawa, one of the world’s blue zones, the book blends timeless wisdom and modern psychology to reveal how small habits, community, and meaning lead to true happiness. It’s a gentle yet powerful guide to living with balance and intention.",
+    "coverImage": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?crop=faces&fit=crop&w=600&h=800",
+    "file": "/books/ikigai.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a004",
+      "name": "Héctor García & Francesc Miralles"
+    },
+    "genre": "Philosophy",
+    "createdAt": "2025-11-10T10:15:00.000Z",
+    "updatedAt": "2025-11-10T10:15:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "672f83a1b01d1a001fa00105",
+    "title": "Sapiens: A Brief History of Humankind",
+    "description": "In this sweeping narrative, historian Yuval Noah Harari explores how Homo sapiens rose from insignificant apes to rulers of the planet. Blending anthropology, history, and science, Harari traces the evolution of human society through revolutions in cognition, agriculture, and technology. Sapiens is both provocative and profound, challenging readers to rethink what it means to be human in an increasingly complex world.",
+    "coverImage": "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+    "file": "/books/sapiens.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a005",
+      "name": "Yuval Noah Harari"
+    },
+    "genre": "History",
+    "createdAt": "2025-11-10T10:20:00.000Z",
+    "updatedAt": "2025-11-10T10:20:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "672f83a1b01d1a001fa00106",
+    "title": "Rich Dad Poor Dad",
+    "description": "Robert Kiyosaki’s financial classic contrasts the philosophies of his two 'dads'—his biological father, the 'Poor Dad,' and his mentor, the 'Rich Dad.' Through storytelling and practical lessons, Kiyosaki explains how financial education, entrepreneurship, and asset building are key to financial independence. This book challenges conventional thinking about work, income, and investing, making it an essential read for anyone looking to master money.",
+    "coverImage": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d",
+    "file": "/books/rich-dad-poor-dad.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a006",
+      "name": "Robert T. Kiyosaki"
+    },
+    "genre": "Finance",
+    "createdAt": "2025-11-10T10:25:00.000Z",
+    "updatedAt": "2025-11-10T10:25:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "672f83a1b01d1a001fa00107",
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "description": "Mark Manson delivers a bold and refreshing perspective on living a meaningful life by embracing our limitations rather than denying them. With raw honesty and humor, Manson argues that not caring about everything liberates us to focus on what truly matters. Through counterintuitive wisdom and personal stories, this book offers a roadmap to authenticity, resilience, and peace in a chaotic world.",
+    "coverImage": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+    "file": "/books/subtle-art.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a007",
+      "name": "Mark Manson"
+    },
+    "genre": "Self-help",
+    "createdAt": "2025-11-10T10:30:00.000Z",
+    "updatedAt": "2025-11-10T10:30:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "672f83a1b01d1a001fa00108",
+    "title": "Think and Grow Rich",
+    "description": "First published in 1937, Napoleon Hill’s legendary book remains one of the most influential guides on success ever written. Based on over 20 years of research interviewing hundreds of successful people—including Henry Ford and Thomas Edison—Hill distills timeless principles of mindset, visualization, and persistence that empower anyone to achieve their personal and financial goals.",
+    "coverImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f",
+    "file": "/books/think-and-grow-rich.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a008",
+      "name": "Napoleon Hill"
+    },
+    "genre": "Motivation",
+    "createdAt": "2025-11-10T10:35:00.000Z",
+    "updatedAt": "2025-11-10T10:35:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "672f83a1b01d1a001fa00109",
+    "title": "The 7 Habits of Highly Effective People",
+    "description": "Stephen Covey’s transformative guide outlines seven universal habits that build character, integrity, and leadership. From prioritizing what truly matters to synergizing relationships, Covey combines timeless wisdom and modern psychology to help readers achieve personal and professional mastery. The principles in this book continue to shape leaders and organizations around the world.",
+    "coverImage": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "file": "/books/7-habits.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a009",
+      "name": "Stephen R. Covey"
+    },
+    "genre": "Self-help",
+    "createdAt": "2025-11-10T10:40:00.000Z",
+    "updatedAt": "2025-11-10T10:40:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "672f83a1b01d1a001fa00110",
+    "title": "The Lean Startup",
+    "description": "Eric Ries redefines how startups and innovative companies should build products and grow efficiently. Using the concept of validated learning, rapid prototyping, and data-driven decision-making, Ries teaches how to minimize waste and maximize customer value. The Lean Startup is a revolutionary manual for entrepreneurs who want to innovate smarter and sustain success in a competitive world.",
+    "coverImage": "https://images.unsplash.com/photo-1485988412941-77a35537dae4",
+    "file": "/books/lean-startup.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a010",
+      "name": "Eric Ries"
+    },
+    "genre": "Business",
+    "createdAt": "2025-11-10T10:45:00.000Z",
+    "updatedAt": "2025-11-10T10:45:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "672f83a1b01d1a001fa00113",
+    "title": "Man’s Search for Meaning",
+    "description": "Viktor E. Frankl, a psychiatrist and Holocaust survivor, shares his harrowing yet inspiring experiences in Nazi concentration camps. Through his story, Frankl introduces logotherapy — the belief that the primary drive in human beings is not pleasure or power, but the pursuit of meaning. This deeply moving book offers timeless lessons on resilience, purpose, and the human spirit, reminding readers that even in the darkest times, we can choose our attitude and find significance in suffering.",
+    "coverImage": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?crop=faces&fit=crop&w=600&h=800",
+    "file": "/books/mans-search-for-meaning.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a013",
+      "name": "Viktor E. Frankl"
+    },
+    "genre": "Philosophy",
+    "createdAt": "2025-11-10T11:00:00.000Z",
+    "updatedAt": "2025-11-10T11:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "672f83a1b01d1a001fa00114",
+    "title": "The Courage to Be Disliked",
+    "description": "Written as a dialogue between a philosopher and a young man, this Japanese bestseller distills the life-changing ideas of Alfred Adler into a simple yet powerful philosophy. The book challenges the belief that the past defines us, teaching that freedom, happiness, and self-acceptance are found when we let go of others’ approval. With wisdom rooted in psychology and self-awareness, it’s a transformative exploration of how to live courageously and authentically in a judgmental world.",
+    "coverImage": "https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=faces&fit=crop&w=600&h=800",
+    "file": "/books/the-courage-to-be-disliked.pdf",
+    "author": {
+      "_id": "672f83a1b01d1a001fa0a014",
+      "name": "Ichiro Kishimi & Fumitake Koga"
+    },
+    "genre": "Psychology",
+    "createdAt": "2025-11-10T11:10:00.000Z",
+    "updatedAt": "2025-11-10T11:10:00.000Z",
+    "__v": 0
+  }
+]

@@ -2,9 +2,9 @@ import React from 'react'
 
 const footer = () => {
   return (
-    <footer className="border-t text-center">
-        <span>@ 2024 Divyansh Gupta;s Book All Rights reserved</span>
-    </footer>>
+    <footer className="border-t text-center mb-10">
+        <span>@ 2025 Divyansh Gupta's Book All Rights reserved</span>
+    </footer>
   );
 }
 

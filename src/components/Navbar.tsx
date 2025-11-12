@@ -4,13 +4,10 @@ import Link from "next/link";
 const Navbar = () => {
   return (
     <nav className=" border-b">
-      <div className="max-w-7xl mx-auto flex items-center justify-between px-6 py-4">
+      <div className="max-w-7xl mx-auto flex items-center justify-between px-10 py-4">
         {/* Left Side - Logo */}
       <Link href="/" className="flex items-center gap-2">
         <Hexagon size={150} />
-        {/* <span className="text-xl font-bold uppercase tracking-light text-primary-500">
-          Read. Learn. Grow.
-        </span> */}
       </Link>
 
       {/* Right Side - Buttons */}
